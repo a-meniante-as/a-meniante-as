@@ -1,5 +1,3 @@
-# Alexis Meniante
-
 ### Formation
 * **Albert School x Les Mines Paris PSL** : Programme Grande École, parcours mathématiques avancées.
 
